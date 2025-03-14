@@ -23,13 +23,11 @@ This repository contains the source code for the official Fermi Energy website, 
 ## How to Run Locally
 
 1. Clone the repository:
-   ```bash
+
    git clone https://github.com/your-username/fermi-energy-website.git
+
 Navigate into the project directory:
 
-bash
-Copy
-Edit
 cd fermi-energy-website
 Open index.html in your web browser to see the website in action.
 
@@ -44,5 +42,12 @@ Snapshots :
 
 
 HomePage : 
+![image](https://github.com/user-attachments/assets/a874a405-5e24-4500-a0ef-4d67edade62a)
+
+About: 
+![image](https://github.com/user-attachments/assets/cc7ca01b-780f-4503-8934-d71c1208b542)
+
+Contact : 
+![image](https://github.com/user-attachments/assets/9ecc9d64-cbcc-4a38-8681-d555830a2ab4)
 
 
