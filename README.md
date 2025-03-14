@@ -40,6 +40,9 @@ For any inquiries, please reach out to info@fermienergy.com.
 
 Snapshots : 
 
+Logo : 
+![image](https://github.com/user-attachments/assets/479d1a15-74d0-4f60-9dd4-136a200b85f7)
+
 
 HomePage : 
 ![image](https://github.com/user-attachments/assets/a874a405-5e24-4500-a0ef-4d67edade62a)
